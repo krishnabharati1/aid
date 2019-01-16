@@ -18,7 +18,7 @@ include('page_head.php');
             <div class="col-md-6">
                 <p>Lorem ipsum labore irure qui velit ut.</p>
                 <p>Cillum aliqua dolore non proident sed voluptate magna sint ut. Lorem ipsum dolor labore aliquip do quis sint commodo mollit enim.</p>
-                <p>Nulla do labore ut qui non sed consectetur tempor consequat consectetur elit commodo quis dolore anim enim cupidatat in labore minim et veniam in enim incididunt. In duis voluptate culpa dolore esse veniam dolor ex sed elit culpa duis veniam irure aliqua commodo ut cillum consectetur ut et pariatur in nostrud aliqua reprehenderit occaecat dolore esse proident.</p>
+                
             </div>
             <div class="clearfix"></div>
         </div>
